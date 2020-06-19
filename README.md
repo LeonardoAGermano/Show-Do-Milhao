@@ -9,13 +9,13 @@ Essa é uma versão demo de um quiz baseado no programa **Show do Milhão**. Nes
 
 [Tutorial rápido no Youtube](https://youtu.be/8d1acBT48nY)
 
-#Páginas
+Páginas
 
 - Página Inicial;
 - Página de instruções;
 - Página do quiz principal;
 - Páginas de Parabéns e de lamentação (caso a usuária perca);
 
-#Contribua!
+Contribua!
 
 Sinta-se à vontade para sugerir novas funcionalidades ou construir novos jogos com este código.
