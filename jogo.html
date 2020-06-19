@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="pt">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Jogando Show do Milhão</title>
+    <link rel="stylesheet" href="jogo.css" />
+  </head>
+  <body>
+    <div class="container">
+      <span id="countdown">40</span>
+      <div id="jogo">
+        <div id="hud">
+          <div id="hud-item">
+            <p class="hud-prefix">
+              Pergunta
+            </p>
+            <h1 class="hud-texto-principal" id="contaQuestao"></h1>
+          </div>
+          <div id="hud-item">
+            <p class="hud-prefix">
+              R$
+            </p>
+            <h1 class="hud-texto-principal" id="pontos">
+              0
+            </h1>
+          </div>
+        </div>
+        <h2 id="pergunta">Pergunta</h2>
+      </div>
+      <div class="escolha-container">
+        <p class="escolha-opcao">1</p>
+        <p class="escolha-texto" data-number="1">escolha1</p>
+      </div>
+      <div class="escolha-container">
+        <p class="escolha-opcao">2</p>
+        <p class="escolha-texto" data-number="2">escolha2</p>
+      </div>
+      <div class="escolha-container">
+        <p class="escolha-opcao">3</p>
+        <p class="escolha-texto" data-number="3">escolha3</p>
+      </div>
+      <div class="escolha-container">
+        <p class="escolha-opcao">4</p>
+        <p class="escolha-texto" data-number="4">escolha4</p>
+      </div>
+    </div>
+    <script src="jogo.js"></script>
+  </body>
+</html>

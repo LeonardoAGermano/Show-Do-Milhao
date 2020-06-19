@@ -1,0 +1,76 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: linear-gradient(
+    88.29deg,
+    rgba(0, 0, 0, 0.9) 1.19%,
+    #0000ec 96.04%
+  );
+}
+
+/* GERAL */
+
+.container {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.inicial_btn {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+/* BOTÕES */
+
+.btn {
+  width: 175px;
+  height: 45px;
+  margin: 10px 0 0 0;
+  color: #ffffff;
+  font-size: 20px;
+  font-weight: bold;
+  background: #e42a01;
+  border: 3px solid #ffffff;
+  border-radius: 500px;
+  cursor: pointer;
+}
+
+.btn:focus {
+  outline: thin dotted;
+  outline: 0px auto -webkit-focus-ring-color;
+  outline-offset: 0px;
+}
+
+.btn_como {
+  width: 175px;
+  height: 45px;
+  margin: 5px 0 5px 0;
+  color: #ffffff;
+  font-size: 20px;
+  font-weight: bold;
+  background: rgba(0, 0, 0, 0);
+  border: 3px solid rgba(0, 0, 0, 0);
+  border-radius: 500px;
+}
+
+.btn_como:hover {
+  background: #e42a01;
+  border: 3px solid #ffffff;
+  border-radius: 500px;
+  cursor: pointer;
+}
+
+.btn_como:focus {
+  outline: thin dotted;
+  outline: 0px auto -webkit-focus-ring-color;
+  outline-offset: 0px;
+}
