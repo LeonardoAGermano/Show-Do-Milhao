@@ -10,7 +10,7 @@
 * [Contribua](https://github.com/LeonardoAGermano/Show-Do-Milhao#contribua)
 
 ## Ideia
-Essa é uma versão demo de um quiz baseado no programa **Show do Milhão**. Nesta primeira versão o jogo conta com:
+Essa é uma versão demo de um quiz online baseado no programa **Show do Milhão**, sucesso no final dos anos 90. Essa versão de demonstração conta com 4 perguntas selecionadas aleatoriamente e cada uma valendo R$250.000 com somente 1 única chance de acerto! 
 
 ## Tutorial
 
@@ -18,7 +18,7 @@ Essa é uma versão demo de um quiz baseado no programa **Show do Milhão**. Nes
 
 ## Demonstração
 
-[Clique aqui para experimentar a demo do jogo!]()
+[Clique aqui para experimentar a demo do jogo!](https://leonardoagermano.github.io/Show-Do-Milhao)
 
 ## Funcionalidades
 
@@ -38,4 +38,4 @@ Essa é uma versão demo de um quiz baseado no programa **Show do Milhão**. Nes
 
 ## Contribua!
 
-Sinta-se à vontade para sugerir [nesse email](mailto:oleonardoag@gmail.com) novas funcionalidades ou construir novos jogos com este código.
+Sinta-se à vontade para sugerir [nesse email](mailto:oleonardoag@gmail.com) novas funcionalidades ou para construir novos jogos com este código.
