@@ -9,7 +9,7 @@ Essa é uma versão demo de um quiz baseado no programa **Show do Milhão**. Nes
 
 [Tutorial rápido no Youtube](https://youtu.be/8d1acBT48nY)
 
-Páginas
+##Páginas
 
 - Página Inicial;
 - Página de instruções;
